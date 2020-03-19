@@ -987,7 +987,7 @@ th {
 /* Sections ---------------------------------- */
 
 section {
-	padding: 5rem 0;
+	padding: 0;
 	width: 100%;
 }
 
@@ -1016,6 +1016,15 @@ section {
 
 .section-inner.no-margin {
 	margin: 0;
+}
+h2.subheading:after {
+    content: '';
+    display: block;
+    width: 150px;
+    height: 2px;
+    background: #63e27b;
+    top: 5px;
+    position: relative;
 }
 
 
@@ -4857,9 +4866,6 @@ a.to-the-top > * {
 
 	/* SECTIONS */
 
-	section {
-		padding: 8rem 0;
-	}
 
 	.section-inner {
 		width: calc(100% - 8rem);

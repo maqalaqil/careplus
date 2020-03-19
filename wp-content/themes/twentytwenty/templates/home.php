@@ -90,7 +90,7 @@ get_header();
                                         <div>
                                             <div class="service-box service-style-2">
                                                 <div class="service-thumbnail">
-                                                    <img src="images/product.jpg" class="img-fluid" alt="">
+                                                    <img src="http://localhost/careplus/wp-content/uploads/2020/03/product.jpg" class="img-fluid" alt="">
                                                 </div>
                                                 <div class="service-content">
                                                     <div class="service-inner">
@@ -107,7 +107,7 @@ get_header();
                                         <div>
                                             <div class="service-box service-style-2">
                                                 <div class="service-thumbnail">
-                                                    <img src="images/product.jpg" class="img-fluid" alt="">
+                                                    <img src="http://localhost/careplus/wp-content/uploads/2020/03/product.jpg" class="img-fluid" alt="">
                                                 </div>
                                                 <div class="service-content">
                                                     <div class="service-inner">
@@ -124,7 +124,7 @@ get_header();
                                         <div>
                                             <div class="service-box service-style-2">
                                                 <div class="service-thumbnail">
-                                                    <img src="images/product.jpg" class="img-fluid" alt="">
+                                                    <img src="http://localhost/careplus/wp-content/uploads/2020/03/product.jpg" class="img-fluid" alt="">
                                                 </div>
                                                 <div class="service-content">
                                                     <div class="service-inner">
@@ -141,7 +141,7 @@ get_header();
                                         <div>
                                             <div class="service-box service-style-2">
                                                 <div class="service-thumbnail">
-                                                    <img src="images/product.jpg" class="img-fluid" alt="">
+                                                    <img src="http://localhost/careplus/wp-content/uploads/2020/03/product.jpg" class="img-fluid" alt="">
                                                 </div>
                                                 <div class="service-content">
                                                     <div class="service-inner">
@@ -181,7 +181,7 @@ get_header();
                                                 <div class="">
                                                     <div class="blog-box blog-style-3 d-flex mb-4">
                                                         <div class="blog-thumbnail">
-                                                            <img src="images/blog/blog-01.jpg " class="img-fluid" alt="">
+                                                            <img src="http://localhost/careplus/wp-content/uploads/2020/03/blog-01.jpg " class="img-fluid" alt="">
                                                         </div>
                                                         <div class="blog-content">
                                                             <div class="blog-entry-meta">
@@ -199,7 +199,7 @@ get_header();
                                                 </div>
                                                 <div class="blog-box blog-style-3 d-flex mb-4">
                                                     <div class="blog-thumbnail">
-                                                        <img src="images/blog/blog-02.jpg " class="img-fluid" alt="">
+                                                        <img src="http://localhost/careplus/wp-content/uploads/2020/03/blog-02.jpg " class="img-fluid" alt="">
                                                     </div>
                                                     <div class="blog-content">
                                                         <div class="blog-entry-meta">
